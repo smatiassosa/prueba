@@ -3,12 +3,13 @@ class HolaMundo
     end
 
     def saluda()
-      puts "Hola Mundo!"
+      puts "HOLA HOLA HOLAAAAA"
     end
 end
  #Comentario una sola linea
 objeto = HolaMundo.new()
 objeto.saluda
+puts "ADIOS"
 gets()
 =begin
  Comentario largo
